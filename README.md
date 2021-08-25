@@ -5,8 +5,8 @@
 
 ### 1 Simple Text
 ### 2 Current Date Object
-### 1 Error and  Stack Trace
-### 2 Function arguments array
+### 3 Error and  Stack Trace
+### 4 Function arguments array
 
 We can use loggly to log almost any kind of information we want , it depends what kind of information browser can capture from javascript runtime so it can be vary platform to platform.
 
