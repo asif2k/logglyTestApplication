@@ -8,7 +8,7 @@
 ### 1 Error and  Stack Trace
 ### 2 Function arguments array
 
-We can use loggly to log almost any kind of information we want , it depends what kind of information browser can capture from javascript runtime so it can very platform to platform.
+We can use loggly to log almost any kind of information we want , it depends what kind of information browser can capture from javascript runtime so it can be vary platform to platform.
 
 
 To develop use:
@@ -21,7 +21,8 @@ For production build use:
 npm run build
 ```
 
-Please check the video for after we log information that can be reviewed from the loggly dashboard in various ways and can be search using shopisticated search features.
+
+Please check the video after we log information that can be reviewed from the loggly dashboard in various ways and can be searched using sophisticated search features.
 
 
 
