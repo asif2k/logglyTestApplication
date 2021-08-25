@@ -10,8 +10,6 @@
 
 We can use loggly to log almost any kind of information we want , it depends what kind of information browser can capture from javascript runtime so it can very platform to platform.
 
-Please check the video for after we log information that can be reviewed from the loggly dashboard in various ways and can be search using shopisticated search features.
-
 
 To develop use:
 ```text
@@ -22,3 +20,10 @@ For production build use:
 ```text
 npm run build
 ```
+
+Please check the video for after we log information that can be reviewed from the loggly dashboard in various ways and can be search using shopisticated search features.
+
+
+
+https://user-images.githubusercontent.com/40750463/130878081-546e9d70-3bb1-47ea-9f65-66f492ad2364.mp4
+
